@@ -1,6 +1,6 @@
 # Student_Performance_Analysis (Interactive Dashboard Creation using Power BI)
 ## Project Objective
-This project analyzes students’ academic performance, highlighting scores, pass rates, performance categories, and trends. It enables educators and administrators to make data-driven decisions, identify high and low performers, and implement strategies to improve learning outcomes.
+To design an analytical dashboard that evaluates students’ academic performance by tracking scores, pass rates, subject performance, and trends, enabling educators to identify performance gaps and improve learning outcomes through data-driven decisions.
 
 ## Datasets Used
 <a href ="https://github.com/Stephaniennesochi/Student_Performance_Analysis/blob/master/assets/datasets/exams_kaggle.csv">Student Data</a>
