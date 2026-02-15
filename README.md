@@ -3,7 +3,7 @@
 This project analyzes students’ academic performance, highlighting scores, pass rates, performance categories, and trends. It enables educators and administrators to make data-driven decisions, identify high and low performers, and implement strategies to improve learning outcomes.
 
 ## Datasets Used
-<a href =""></a>
+<a href ="https://github.com/Stephaniennesochi/Student_Performance_Analysis/blob/master/assets/datasets/exams_kaggle.csv">Student Data</a>
 
 ## Questions (KPIs)
 * What is the total revenue generated?
@@ -24,10 +24,10 @@ This project analyzes students’ academic performance, highlighting scores, pas
 * Which products contribute the most to overall sales performance?
 
 ## SQL QUERIES
-<a href =""></a>
+<a href ="">SQL QUERIES</a>
 
 ## Dashboard Interactions
-<a href =""></a>
+<a href ="">Dashboard</a>
 
 ## Dashboard
 <img width="1162" height="658" alt="student_performance_dashboard" src="https://github.com/user-attachments/assets/06c544d7-99c7-491f-9e2b-b3a6e9157c26" />
