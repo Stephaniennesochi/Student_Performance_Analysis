@@ -6,22 +6,21 @@ This project analyzes students’ academic performance, highlighting scores, pas
 <a href ="https://github.com/Stephaniennesochi/Student_Performance_Analysis/blob/master/assets/datasets/exams_kaggle.csv">Student Data</a>
 
 ## Questions (KPIs)
-* What is the total revenue generated?
-* What is the total profit made?
-* What is the overall profit margin?
-* How many total orders were processed?
-* What is the average revenue per order?
-* How are sales trending over time?
-* What is the year-over-year growth rate?
-* What are the year-to-date sales figures?
-* Which products generate the highest revenue?
-* Which products generate the highest profit?
-* Which products have low profit margins?
-* Which region generates the highest revenue?
-* Which region generates the highest profit?
-* Which region has the highest profit margin?
-* Are there seasonal patterns in sales performance?
-* Which products contribute the most to overall sales performance?
+* What is the total number of students analyzed?
+* What is the overall average score of students?
+* What is the average score in Math?
+* What is the average score in Reading?
+* What is the average score in Writing?
+* What percentage of students passed?
+* What percentage of students failed?
+* Which subject has the highest average score?
+* Which subject has the lowest average score?
+* Does gender influence overall student performance?
+* Which gender performs better on average?
+* Does completing the test preparation course improve performance?
+* What is the pass rate among students who completed test preparation?
+* What is the pass rate among students who did not complete test preparation?
+
 
 ## SQL QUERIES
 <a href ="https://github.com/Stephaniennesochi/Student_Performance_Analysis/tree/master/assets/sql_queries">SQL QUERIES</a>
