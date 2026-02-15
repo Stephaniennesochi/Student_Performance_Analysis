@@ -27,7 +27,7 @@ This project analyzes students’ academic performance, highlighting scores, pas
 <a href ="https://github.com/Stephaniennesochi/Student_Performance_Analysis/tree/master/assets/sql_queries">SQL QUERIES</a>
 
 ## Dashboard Interactions
-<a href ="">View Dashboard</a>
+<a href ="https://github.com/Stephaniennesochi/Student_Performance_Analysis/blob/master/assets/images/student_performance_dashboard.png">View Dashboard</a>
 
 ## Dashboard
 <img width="1162" height="658" alt="student_performance_dashboard" src="https://github.com/user-attachments/assets/06c544d7-99c7-491f-9e2b-b3a6e9157c26" />
