@@ -7,8 +7,8 @@ This project analyzes students’ academic performance, highlighting scores, pas
 
 ## Questions (KPIs)
 * What is the total revenue generated?
--What is the total profit made?
--What is the overall profit margin?
+* What is the total profit made?
+* What is the overall profit margin?
 -How many total orders were processed?
 -What is the average revenue per order?
 -How are sales trending over time?
