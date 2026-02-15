@@ -1,5 +1,5 @@
 # Student_Performance_Analysis (Interactive Dashboard Creation using Power BI)
-## Project Description
+## Project Objective
 This project analyzes students’ academic performance, highlighting scores, pass rates, performance categories, and trends. It enables educators and administrators to make data-driven decisions, identify high and low performers, and implement strategies to improve learning outcomes.
 
 ## Datasets Used
@@ -22,8 +22,8 @@ This project analyzes students’ academic performance, highlighting scores, pas
 * What is the pass rate among students who did not complete test preparation?
 
 
-## SQL QUERIES
-<a href ="https://github.com/Stephaniennesochi/Student_Performance_Analysis/tree/master/assets/sql_queries">SQL QUERIES</a>
+## SQL Queries
+<a href ="https://github.com/Stephaniennesochi/Student_Performance_Analysis/tree/master/assets/sql_queries">SQL Queries</a>
 
 ## Dashboard Interactions
 <a href ="https://github.com/Stephaniennesochi/Student_Performance_Analysis/blob/master/assets/images/student_performance_dashboard.png">View Dashboard</a>
