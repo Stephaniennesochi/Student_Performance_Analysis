@@ -22,3 +22,13 @@ This project analyzes students’ academic performance, highlighting scores, pas
 -Which region has the highest profit margin?
 -Are there seasonal patterns in sales performance?
 -Which products contribute the most to overall sales performance?
+
+## SQL QUERIES
+<a href =""></a>
+
+## Dashboard Interactions
+<a href =""></a>
+
+## Dashboard
+<img width="1162" height="658" alt="student_performance_dashboard" src="https://github.com/user-attachments/assets/06c544d7-99c7-491f-9e2b-b3a6e9157c26" />
+
