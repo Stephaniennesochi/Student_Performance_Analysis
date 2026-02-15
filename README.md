@@ -25,7 +25,7 @@ To design an analytical dashboard that evaluates students’ academic performanc
 ## SQL Queries
 <a href ="https://github.com/Stephaniennesochi/Student_Performance_Analysis/tree/master/assets/sql_queries">SQL Queries</a>
 
-## Dashboard Interactions
+## Dashboard Interaction
 <a href ="https://github.com/Stephaniennesochi/Student_Performance_Analysis/blob/master/assets/images/student_performance_dashboard.png">View Dashboard</a>
 
 ## Dashboard
